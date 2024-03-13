@@ -1,0 +1,23 @@
+.popup__input{
+min-width: 358px;
+flex-shrink: 0; 
+color: #000;
+margin: 54px auto 0px;
+max-height: 14px;
+border: none;
+border-bottom: 1px solid rgb(0,0,0, 0.4 );
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding-bottom:13px ;
+padding-top: 13px;
+}
+
+@media screen and (max-width: 768px) {
+    .popup__input {
+      min-width: 238px;
+      padding-bottom: 8px;
+    }
+  }

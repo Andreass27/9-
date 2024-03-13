@@ -1,0 +1,12 @@
+.popup__imgname{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    max-width: 291px;
+    min-height: 12px;
+    flex-shrink: 0;
+    
+}

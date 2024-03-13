@@ -1,0 +1,21 @@
+.popup__text{
+    max-width: 330px;
+    height: 23px;
+    flex-shrink: 0; 
+    color: #000;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    align-items: center;
+
+    margin: 0;
+  
+    }
+
+    @media screen and (max-width: 768px) {
+  .profile__text {
+    max-width: 210px;
+  }
+}

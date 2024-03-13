@@ -1,0 +1,24 @@
+.footer__author{
+    color: #545454;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    
+    }
+
+    @media screen and (max-width: 768px) {
+        .footer__author {
+            color: #545454;
+            font-family: Inter;
+            font-size: 14px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+            max-width: 282px;
+            margin:  0 auto 0 40px ;
+            
+           
+        }
+      }
